@@ -5,6 +5,9 @@ import FooterModal from "@/components/FooterModal";
 export const metadata: Metadata = {
   title: "SnapTools | Zero-Server Smart Client Utilities",
   description: "Next-gen browser utilities, creator studio, and privacy-first client tools.",
+  verification: {
+    google: "sMAX9Z5iBUex-dYX4-k3bZ66EZ8Ly5SgvnBME1wlknc",
+  },
 };
 
 export default function RootLayout({
